@@ -1,0 +1,20 @@
+{
+    "name": "silverbackstudio/rcp-proof",
+    "description": "A plugin fo Restrict Content Pro to send subscription to useproof.com",
+    "type": "wordpress-plugin",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Brando Meniconi",
+            "email": "b.meniconi@silverbackstudio.it"
+        }
+    ],
+    "require": {
+        "johnpbloch/wordpress": "^4.9.0",
+        "restrictcontentpro/restrict-content-pro": "^2.9.6"
+    },
+    "require-dev": {
+        "wimg/php-compatibility": "^7.1",
+        "squizlabs/php_codesniffer": "^2.0"
+    }
+}

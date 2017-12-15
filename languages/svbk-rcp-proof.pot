@@ -1,0 +1,39 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-15 16:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: rcp-proof.php:61
+msgid "Proof Webhook URL"
+msgstr ""
+
+#: rcp-proof.php:65
+msgid "The useproof.com webhook URL for the Notification"
+msgstr ""
+
+#. Name of the plugin
+msgid "Restrict Content Pro - Push Subscriptions to useproof.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Send User Data to useproof.com to show notification"
+msgstr ""
+
+#. Author of the plugin
+msgid "Silverback Studio"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.silverbackstudio.it/"
+msgstr ""
